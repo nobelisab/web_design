@@ -1,4 +1,4 @@
-# Healthy Living Investments - Being created with a Coursera course.
+# Healthy Living Investments - Being Created with a Coursera Course
 
 This is a web design services guide to different types of websites which are offered through Healthy Living Investments.  
 
